@@ -4,3 +4,6 @@
 [submodule "doc_modpack"]
 	path = doc_modpack
 	url = http://repo.or.cz/minetest_doc_modpack.git
+[submodule "smart_inventory"]
+	path = smart_inventory
+	url = https://github.com/minetest-mods/smart_inventory.git
