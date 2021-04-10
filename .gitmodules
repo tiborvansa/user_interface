@@ -7,3 +7,6 @@
 [submodule "smart_inventory"]
 	path = smart_inventory
 	url = https://github.com/minetest-mods/smart_inventory.git
+[submodule "awards"]
+	path = awards
+	url = https://github.com/rubenwardy/awards.git
